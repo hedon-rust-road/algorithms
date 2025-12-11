@@ -6,5 +6,6 @@ mod leetcode_greedy;
 mod leetcode_linked_list;
 mod leetcode_queue;
 mod leetcode_search_table;
+mod leetcode_sort;
 mod leetcode_stack;
 mod leetcode_tree;

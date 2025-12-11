@@ -12,6 +12,7 @@ mod leetcode242;
 mod leetcode290;
 mod leetcode349;
 mod leetcode350;
+mod leetcode380;
 mod leetcode447;
 mod leetcode451;
 mod leetcode454;
