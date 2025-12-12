@@ -18,7 +18,7 @@ fn quicksort(nums: &mut Vec<i32>, start: i32, end: i32) {
     let mut r = end as usize;
 
     // 随机选择 pivot
-    let rand_index = rand::thread_rng().gen_range(l..=r);
+    let rand_index = rand::rng().random_range(l..=r);
     nums.swap(l, rand_index);
     let pivot = nums[l];
 

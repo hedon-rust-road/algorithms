@@ -14,11 +14,11 @@ mod leetcode3;
 mod leetcode344;
 mod leetcode345;
 mod leetcode438;
+mod leetcode58;
 mod leetcode704;
 mod leetcode75;
 mod leetcode76;
 mod leetcode80;
 mod leetcode88;
-
 
 struct Solution;
