@@ -8,4 +8,5 @@ mod leetcode_queue;
 mod leetcode_search_table;
 mod leetcode_sort;
 mod leetcode_stack;
+mod leetcode_string;
 mod leetcode_tree;
