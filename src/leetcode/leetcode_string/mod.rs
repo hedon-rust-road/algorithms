@@ -1,3 +1,4 @@
+mod leetcode125;
 mod leetcode14;
 mod leetcode151;
 mod leetcode28;
